@@ -1,0 +1,34 @@
+{
+    "musicplayer":[
+        {
+            "song":"Dusk till dawn",
+            "file":"dusk.mp3",
+            "lyrics":"Zayn,Sia",
+            "image":"dtd.jpg"
+        },
+        {
+            "song":"Let me down slowly",
+            "file":"letme.mp3",
+            "lyrics":"Alec Benjamin",
+            "image":"lmds.jpg"
+        },
+        {
+            "song":"Lovely",
+            "file":"lovely.mp3",
+            "lyrics":"Billie Eilish,Khalid",
+            "image":"l.jpg"
+        },
+        {
+            "song":"Scars to your beautiful",
+            "file":"scars.mp3",
+            "lyrics":"Alessia Cara",
+            "image":"styb.jpg"
+        },
+        {
+            "song":"Changes",
+            "file":"changes.mp3",
+            "lyrics":"XXXTENTACION",
+            "image":"c.jpg"
+        }
+    ]
+}
